@@ -11,8 +11,7 @@ import numpy as np
 # Title and introduction
 st.title("20 Newsgroups Text Classifier")
 st.write("Welcome to the Text Classifier App!")
-st.write("This app uses these models for classification:
-Naïve Bayes, SVM, Random Forest, Decision Tree.")
+st.write("This app uses these models for classification: Naïve Bayes, SVM, Random Forest, Decision Tree.")
 
 
 # Sidebar with updated selectbox
